@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Grade Impact Calculator</string>
+    <string name="category">Category</string>
+    <string name="weight">Weight(%)</string>
+    <string name="percent">Your Perc</string>
+    <string name="button">Next</string>
+    <string name="create">Add mock assignment(s)</string>
+    <string name="mock_name">Enter a mock assignment name</string>
+    <string name="mock_category">Choose a category for the mock assignment</string>
+    <string name="mock_score">Enter a mock score</string>
+    <string name="calculate">Calculate</string>
+    <string name="reset">Reset</string>
+    <string name="descriptionC">Continue pressing calculate to add more assignments</string>
+    <string name="title_activity_home_screen">HomeScreen</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
